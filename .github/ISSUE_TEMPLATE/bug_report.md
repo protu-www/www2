@@ -1,13 +1,13 @@
 ---
 name: Puuteilmoitus
-about: Ilmiuta puute tai virhe
+about: Ilmoita puute tai virhe
 Otsikko: ''
 Tarrat: ''
 Suorittajat: ''
 
 ---
 
-**Kuvaa pute**
+**Puute tai virhe**
 
 
 **Miten toistetaan**
