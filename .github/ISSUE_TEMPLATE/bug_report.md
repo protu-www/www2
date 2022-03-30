@@ -6,16 +6,16 @@ Tarrat: ''
 Suorittajat: ''
 
 ---
-
+(poista tarpeettomat)
 **Puute tai virhe**
 
 
 **Miten toistetaan**
 
 
-**Miten pitäisi toimia**
+**Miten sen pitäisi toimia?**
 
 
 **Kuvakaappaus**
-If applicable, add screenshots to help explain your problem.
+
 
