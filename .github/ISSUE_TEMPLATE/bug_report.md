@@ -7,10 +7,10 @@ Suorittajat: ''
 
 ---
 (poista tarpeettomat)
-**Puute tai virhe**
+**Kuvaus**
 
 
-**Miten toistetaan**
+**Miten toistetaan (esim. linkki)?**
 
 
 **Miten sen pitäisi toimia?**
