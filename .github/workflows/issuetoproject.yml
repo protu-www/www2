@@ -5,6 +5,7 @@ on:
     types: [opened]
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  INITIAL_COLUMN_ID: 1
 
 jobs:
   assign_one_project:
@@ -15,3 +16,4 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.2.1
       with:
         project: 'https://github.com/protu-www/www2/projects/1'
+        column_name: 'Uudet'
