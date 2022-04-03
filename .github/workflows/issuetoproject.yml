@@ -1,0 +1,17 @@
+name: Auto Assign new issues to project
+
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+    name: Assign to One Project
+    steps:
+    - name: Assign NEW issues to project 1
+      uses: srggrs/assign-one-project-github-action@1.2.1
+      with:
+        project: 'https://github.com/protu-www/www2/projects/1'
